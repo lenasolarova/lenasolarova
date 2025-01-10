@@ -1,11 +1,9 @@
-## Hi there! 🍂 
-🐡 My name is Lena and I enjoy a good technical challenge!
+## Hi there 🤍
+🖤 I am a software engineer in the making (well, an SWE intern at RedHat) with a passion for meaningful and useful projects.
 <br><br>
-🐇 I am currently working on my most complex project yet, **Helping Tiler** - an extension for Gnome.  It’s already fully functional and has been quite useful in my day to day life, though it’s still a work in progress with plenty of room for improvement.
+🖤 My latest personal work has been *Helping Tiler*, a Gnome extension I had developed to simplify already existing overly complicated extensions and also working on my first embedded project just for fun.
 <br><br>
-🐙 In addition to that, I’m exploring a variety of smaller side projects. From web scraping in Python to creating Google Docs extensions in JavaScript, I enjoy experimenting with different technologies and learning through practical challenges (and JavaScript gives me plenty of those 🩵)
-<br><br>
-☁️ I am also interested in embedded software development and planning to start working on my first embedded project in C soon, since I miss working with lower level languages.
+🖤 I enjoy exploring various technologies, from web scraping in Python to JavaScript-based Google Docs extensions. I am also excited to delve more into embedded systems development using C or working in Go.
 <br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenasolarova&layout=compact&langs_count=8&card_width=320" />
